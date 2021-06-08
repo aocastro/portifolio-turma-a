@@ -6,3 +6,5 @@ Portifólio de competências e habilidades do Prof. Adriano Castro
 08/06 - Houve a aula de integração do GitHub com o VSCODE.
 
 08/06 - Criamos os arquivos iniciais do projeto Bootstrap e jQuery
+
+08/06 - Foi desenvolvido a página inicial do projeto, bem como configurado o GitPages
