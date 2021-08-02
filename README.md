@@ -8,3 +8,5 @@ Portifólio de competências e habilidades do Prof. Adriano Castro
 08/06 - Criamos os arquivos iniciais do projeto Bootstrap e jQuery
 
 08/06 - Foi desenvolvido a página inicial do projeto, bem como configurado o GitPages
+
+02/08 - Aula de introdução ao jQuery
